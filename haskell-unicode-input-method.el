@@ -239,6 +239,9 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ;; (" / "              [" ÷ "])
  ;; (" * "              [" ⋅ "])
 
+ ;; Operators
+ ("prodcross" "×")
+
  ;; Containers / Collections
  ;; ("++"               ["⧺"])
  ;; ("+++"              ["⧻"])
