@@ -240,7 +240,10 @@ packages (base-unicode-symbols and containers-unicode-symbols).
  ;; (" * "              [" ⋅ "])
 
  ;; Operators
- ("prodcross" "×")
+ ("prodsign" "×")
+ ("coprodsign" "∐")
+
+
 
  ;; Containers / Collections
  ;; ("++"               ["⧺"])
